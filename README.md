@@ -2,7 +2,7 @@
 
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
 
-**Download: https://workupload.com/file/DbY4Njgwmxx** <br/>
+**Download: https://workupload.com/file/rcBXqT72vPZ** <br/>
 *Download on Workupload because this client is like 600Mb and GitHub is A$$*
 
 # Why?
@@ -14,7 +14,7 @@
 
 # How To Use
 
-1. Download the client from the [here](https://workupload.com/file/DbY4Njgwmxx).
+1. Download the client from the [here](https://workupload.com/file/rcBXqT72vPZ).
 2. Extract it into .minecraft/versions.
 3. Disable FastRender in Settings > Video Settings (Set it to "Graphics: Fancy")
 4. Start game with [Java 17.0.6](https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.exe).
