@@ -22,7 +22,7 @@
 # Credits
 - Vega33 (619200173993623563) - Making this client.
 - [3000IQPlay][1] - Cracking.
-- MistakenIV - Jar.
+- MistakenVI - Jar.
 
 # GUI (Bind: AltGr)
 
