@@ -26,10 +26,4 @@
 
 # GUI (Bind: AltGr)
 
-![image]()
-
-# Hall of Autism
-
-![image]()
-
-![image]()
+![image](https://github.com/WalmartSolutions/VegaLine-00087/blob/main/gui.png?raw=true)
