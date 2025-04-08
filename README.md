@@ -12,6 +12,12 @@
 
 [1]: https://github.com/3000IQPlay
 
+# Showcases
+
+https://www.youtube.com/@frizynew
+
+https://www.youtube.com/watch?v=iNRB5ykbnO4
+
 # How To Use
 
 1. Download the client from the [here](https://workupload.com/file/rcBXqT72vPZ).
